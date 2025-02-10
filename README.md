@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native bug involving accessing a state variable before it has been properly initialized. The `Bug.js` file showcases the problematic code, and the `BugSolution.js` file provides a solution using the `useEffect` hook and conditional rendering to handle the asynchronous update of the state variable.
